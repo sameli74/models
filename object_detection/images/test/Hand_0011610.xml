@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Hand_0011610.jpg</filename>
+	<path>C:\Users\snowwhite\Desktop\Documents\Idea\tensorflow1\models\research\object_detection\images\test\Hand_0011610.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>35</ymin>
+			<xmax>694</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
